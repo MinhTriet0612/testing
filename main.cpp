@@ -2,7 +2,7 @@
 #include <iostream>
 
 int main() {
-  std::cout << "Hasdlfjkhasdkfjhadslkfjhadslfkjadhsf" << std::endl;
+  std::cout << "hello i'm triet" << std::endl;
   cout << "hdjakfhdsafljsdhafkl";
   return 0;
 }
